@@ -10,9 +10,9 @@
   "author": "Pablo Arak",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.2",
     "express": "^4.18.2",
-    "nanoid": "^5.0.3"
+    "nanoid": "^5.0.3",
+    "swagger-ui-express": "^5.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
